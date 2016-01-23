@@ -2,8 +2,13 @@
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
-  <option name="EDITOR_FONT_NAME" value="Hack" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <attributes>
+    <option name="JAVA_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
     <option name="LOGCAT_ASSERT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="9876aa" />
