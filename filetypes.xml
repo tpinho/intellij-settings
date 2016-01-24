@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="16">
     <extensionMap>
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping ext="aspx" type="PLAIN_TEXT" />
       <mapping pattern="ic_toggle_off" type="XML" />
     </extensionMap>
